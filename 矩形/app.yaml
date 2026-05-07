@@ -1,0 +1,9 @@
+id: e000
+name: 矩形--激光
+version: 1.0.0
+author: zore
+icon: app.png
+desc: 先划二值化调激光点，退出窗串口发送0/1，0激光点，1矩形
+files:
+  - LAB_a.py
+  - main.py
