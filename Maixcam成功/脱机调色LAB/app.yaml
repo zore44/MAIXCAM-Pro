@@ -1,0 +1,9 @@
+id: hs
+name: 红色激光点
+version: 1.0.0
+author: zore
+icon: ''
+desc: 红色光点
+files:
+  - LAB_a.py
+  - main.py

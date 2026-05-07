@@ -1,0 +1,9 @@
+files:
+  - LAB.py
+  - main.py
+id: e2e
+name: 电赛
+version: 1.0.0
+author: zore
+icon: app.png
+desc: 电赛
